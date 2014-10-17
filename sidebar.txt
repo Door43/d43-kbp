@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbp:home|Door43 (kbp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbp|d43-kbp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbp/archive/master.zip|d43-kbp.zip]]
+
+**Recent Changes**
+{{changes>ns = kbp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbp|Ethnologue data]]
+
